@@ -114,6 +114,6 @@ I want to continue focusing on my path to a full stack web developer, i already 
 
 ## Acknowledgments
 
-I am very thankfull of [Coding Sections](https://www.youtube.com/channel/UC8YimkS0Yw487d2kr9PEcsg) for helping me in this project.
-and also thankfull of [Dr. Angela Yu](https://t.co/uVi2CifJBs) for intoducing me about the Frontend Mentor.
+I am very thankful of [Coding Sections](https://www.youtube.com/channel/UC8YimkS0Yw487d2kr9PEcsg) for helping me in this project.
+and also thankful of [Dr. Angela Yu](https://twitter.com/yu_angela) for intoducing me about the Frontend Mentor.
 
